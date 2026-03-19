@@ -1,0 +1,7 @@
+call by value : c/c++/java
+
+call by reference : python 
+
+call by value: When the memory is assigned to the identifier
+
+call by reference: When the memory is assigned to the literals
